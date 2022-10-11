@@ -2,7 +2,7 @@
 ### Version:
 0.1
 ### Date created:
-3.10. 2022
+10.10. 2022
 ### Author:
 Filip Soukal 4.C SSPŠ
 ### Contact:
